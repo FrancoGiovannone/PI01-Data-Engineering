@@ -15,6 +15,6 @@
 
 5)Cantidad de series y películas por rating. 
 
--LINK PARA INGRESAR A LA API: 
+-LINK PARA INGRESAR A LA API: https://db0z47.deta.dev/docs
 
 -LINK DEL VIDEO EXPLICATIVO:
