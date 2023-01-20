@@ -17,4 +17,4 @@
 
 -LINK PARA INGRESAR A LA API: https://db0z47.deta.dev/docs
 
--LINK DEL VIDEO EXPLICATIVO:
+-LINK DEL VIDEO EXPLICATIVO: https://www.youtube.com/watch?v=4PVhODRZp6A
